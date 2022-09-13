@@ -9,8 +9,8 @@ import re
 ticketCnt = 0
 root = Tk()
 root.geometry("500x500")
-originCity = ['London', 'Beijing', 'Budapest', 'Paris']
-destinationCity = ['London', 'Beijing', 'Budapest', 'Paris']
+originCity = ['London', 'Peking', 'Budapest', 'Paris', 'Tokyo']
+destinationCity = ['London', 'Peking', 'Budapest', 'Tokyo']
 
 
 class Customer:
